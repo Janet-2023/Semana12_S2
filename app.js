@@ -1,0 +1,6 @@
+
+//CLUOSURE
+
+function creaFunc(){
+    
+}
